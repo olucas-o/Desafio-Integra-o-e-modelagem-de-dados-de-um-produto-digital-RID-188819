@@ -14,6 +14,6 @@ Tecnologias usadas:
 
 ### 1) Clonar o repositório
 ```bash
-git clone https://github.com/olucas-o/Projeto-Commert-Backend
+git clone https://github.com/olucas-o/Desafio-Integra-o-e-modelagem-de-dados-de-um-produto-digital-RID-188819
 npm install
 node src/index.js
